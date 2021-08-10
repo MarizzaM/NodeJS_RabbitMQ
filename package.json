@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "Message Queuing with RabbitMQ using NodeJs",
+  "main": "receiver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "marina pavlova",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
