@@ -6,11 +6,11 @@
 
 [MongoDB Server](https://www.mongodb.com/try/download) 
 
-	  npm init
+  	npm init
   
-    npm install amqplib
+   	npm install amqplib
 
-    npm install mongodb
+   	npm install mongodb
     
 ### Create a MangoDB database ###
 
